@@ -12,7 +12,7 @@ export default function About() {
           <h1 className="text-5xl font-bold text-[#FF385C] mb-6 drop-shadow-sm">About Airbnb</h1>
           <p className="text-lg leading-relaxed text-gray-700 max-w-2xl mx-auto mb-8">
             At Airbnb, we believe travel should feel like home — simple, warm, and memorable.
-            Whether you're exploring new destinations or welcoming guests, we make every stay meaningful and personal.
+            Whether you&apos;re exploring new destinations or welcoming guests, we make every stay meaningful and personal.
           </p>
           <button
             onClick={() => {

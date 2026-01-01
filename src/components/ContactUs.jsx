@@ -22,7 +22,7 @@ const ContactUs = () => {
         <h1 className="text-4xl font-bold text-gray-800 mb-4">Contact Us</h1>
         <p className="text-lg text-gray-600 mb-10 leading-relaxed">
           Have questions, feedback, or just want to say hello? Fill out the form
-          below and we'll get back to you shortly.
+          below and we&apos;ll get back to you shortly.
         </p>
         <form className="flex flex-col gap-7" onSubmit={handleSubmit}>
           <div className="flex flex-col">
